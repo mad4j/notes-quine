@@ -9,7 +9,7 @@ Verify using:
 `$ ./quine | diff quine.cpp -`
 
 
-My signature
+My signature [quine.cpp](quine.cpp):
 
 ```c++
 auto s = R"(
