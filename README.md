@@ -12,7 +12,7 @@ Verify using:
 
 `$ ./quine | diff quine.cpp -`
 
-See [LICENSE](LICENSE) file.
+Daniele Olmisani <daniele.olmisani@gmail.com>, see [LICENSE](LICENSE) file.
 
 ## C++ Quines 
 
