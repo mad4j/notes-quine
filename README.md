@@ -1,6 +1,7 @@
 # My Quine page
 
     main(a){printf(a="main(a){printf(a=%c%s%c,34,a,34);}",34,a,34);}
+_by Dario Dariol_
 
 ## Notes
 Compile using: 
@@ -11,7 +12,7 @@ Verify using:
 
 `$ ./quine | diff quine.cpp -`
 
-See [LICENSE](LICENSE) file.
+Daniele Olmisani <daniele.olmisani@gmail.com>, see [LICENSE](LICENSE) file.
 
 ## C++ Quines 
 
