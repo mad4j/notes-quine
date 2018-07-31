@@ -9,6 +9,8 @@ Verify using:
 
 `$ ./quine | diff quine.cpp -`
 
+See [LICENSE](LICENSE) file.
+
 ## C++ Quines 
 
 ### My signature 
