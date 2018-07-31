@@ -1,5 +1,6 @@
-# notes-quine
+# My Quine page
 
+## Notes
 Compile using: 
 
 `$ g++ -std=c++17 quine.cpp -o quine`
@@ -8,8 +9,11 @@ Verify using:
 
 `$ ./quine | diff quine.cpp -`
 
+## C++ Quines 
 
-My signature [quine.cpp](quine.cpp):
+### My signature 
+
+Please, refer to [quine.cpp](quine.cpp):
 
 ```c++
 auto s = R"(
@@ -25,7 +29,9 @@ int main() {
 
 ```
 
-An other try [quine2.cpp](quine2.cpp):
+### An other try 
+
+Please, refer to [quine2.cpp](quine2.cpp):
 
 ```c++
 #include <iostream>
@@ -51,7 +57,9 @@ int main() {
 
 ```
 
-An other try [quine1.cpp](quine1.cpp):
+### An other try 
+
+Please, refer to [quine1.cpp](quine1.cpp):
 
 ```c++
 #include <iostream>
