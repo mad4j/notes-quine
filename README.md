@@ -1,6 +1,7 @@
 # My Quine page
 
-    main(p){printf(p="main(p){printf(p=%c%s%1$c,34,p);}",34,p);}
+ > `main(p){printf(p="main(p){printf(p=%c%s%1$c,34,p);}",34,p);}`
+ 
 _by Dario Dariol_
 
 A quine is a non-empty computer program which takes no input and produces a copy of its own source code as its only output. [Wikipedia](https://en.wikipedia.org/wiki/Quine_%28computing%29)
