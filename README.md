@@ -21,6 +21,14 @@ Daniele Olmisani - <daniele.olmisani@gmail.com>, see [LICENSE](LICENSE) file.
 
 ## C++ Quines 
 
+### TBV
+
+```c++
+#include<cstdio>
+int main(){char n[]=R"(#include<cstdio>
+int main(){char n[]=R"(%s%c";printf(n,n,41);})";printf(n,n,41);}
+```
+
 ### My signature 
 
 Please, refer to [quine.cpp](quine.cpp):
