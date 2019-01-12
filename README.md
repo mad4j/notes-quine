@@ -19,6 +19,14 @@ Verify using:
 
 Daniele Olmisani - <daniele.olmisani@gmail.com>, see [LICENSE](LICENSE) file.
 
+## Funny Quines
+
+### CBM BASIC
+
+```shell
+1 A$="1 A$=:PRINT LEFT$(A$,5)CHR$(34)A$CHR$(34)MID$(A$,6,49)":PRINT LEFT$(A$,5)CHR$(34)A$CHR$(34)MID$(A$,6,49)
+```
+
 ## C++ Quines 
 
 ### My signature 
