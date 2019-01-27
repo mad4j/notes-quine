@@ -1,5 +1,7 @@
 # My Quine page
 
+Daniele Olmisani - <daniele.olmisani@gmail.com>, see [LICENSE](LICENSE) file.
+
  > `main(p){printf(p="main(p){printf(p=%c%s%1$c,34,p);}",34,p);}`
  
 _by Dario Dariol_
@@ -16,8 +18,6 @@ Compile using:
 Verify using: 
 
 `$ ./quine | diff quine.cpp -`
-
-Daniele Olmisani - <daniele.olmisani@gmail.com>, see [LICENSE](LICENSE) file.
 
 
 ## C++ Quines 
