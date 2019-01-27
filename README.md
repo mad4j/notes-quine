@@ -23,11 +23,7 @@ Daniele Olmisani - <daniele.olmisani@gmail.com>, see [LICENSE](LICENSE) file.
 
 ### CBM BASIC
 
-```
-1 A$="1 A$=:PRINTLEFT$(A$,5)CHR$(34)A$CHR$(34)RIGHT$(A$,48)":PRINTLEFT$(A$,5)CHR$(34)A$CHR$(34)RIGHT$(A$,48)
-```
-
-108 chars
+![quine](c64-quine-2.png)
 
 ## C++ Quines 
 
