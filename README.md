@@ -19,11 +19,6 @@ Verify using:
 
 Daniele Olmisani - <daniele.olmisani@gmail.com>, see [LICENSE](LICENSE) file.
 
-## Funny Quines
-
-### CBM BASIC
-
-![quine](c64-quine-2.png)
 
 ## C++ Quines 
 
@@ -119,3 +114,9 @@ int main() {
 }
 
 ```
+
+## Funny Quines
+
+### CBM BASIC
+
+![quine](c64-quine-2.png)
