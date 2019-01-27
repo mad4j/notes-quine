@@ -119,6 +119,6 @@ int main() {
 
 ### CBM BASIC
 
-A CBM BASIC v2 that should be edited directly in a real Commodore 64.
+A quine in CBM BASIC v2 that should be edited directly in a real Commodore 64.
 
 ![quine](c64-quine-2.png)
