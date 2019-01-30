@@ -125,5 +125,7 @@ A quine in CBM BASIC v2 that should be edited directly in a real Commodore 64.
 
 ### Natural Language
 
+A quine using natural language. 
+
 ![quine](natural-quine.png)
 
