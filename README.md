@@ -122,3 +122,8 @@ int main() {
 A quine in CBM BASIC v2 that should be edited directly in a real Commodore 64.
 
 ![quine](c64-quine-2.png)
+
+### Natural Language
+
+![quine](natural-quine.png)
+
