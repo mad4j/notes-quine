@@ -119,7 +119,7 @@ int main() {
 
 ### APL
 
-<img src="apl-quine.png" width="320px" title="APL Quine"/>
+<img src="apl-quine.png" width="640px" title="APL Quine"/>
 
 A trivial quine in APL is given by any expression:
 ```apl
@@ -180,11 +180,11 @@ because 1⌽ will rotate the right argument of one position (left argument).
 
 A quine in CBM BASIC v2 that should be edited directly in a real Commodore 64.
 
-<img src="c64-quine-2.png" width="320px" title="C64 Quine"/>
+<img src="c64-quine-2.png" width="640px" title="C64 Quine"/>
 
 ### Natural Language
 
 A quine using natural language. 
 
-<img src="natural-quine.png" width="320px" title="Natural Quine"/>
+<img src="natural-quine.png" width="640px" title="Natural Quine"/>
 
