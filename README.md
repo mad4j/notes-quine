@@ -129,6 +129,7 @@ Instead, an interisting and non-trivial quine is
 ```apl
 1⌽,⍨9⍴'''1⌽,⍨9⍴'''
 ```
+Try the code in [TryAPL](https://tryapl.org/)
 
 Let's we will trying to understand.
 
