@@ -119,7 +119,7 @@ int main() {
 
 ### APL
 
-![APL Quine](APL Quine.png)
+![APL Quine](apl-quine.png)
 
 A trivial quine in APL is given by any expression:
 ```apl
