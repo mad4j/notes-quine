@@ -117,6 +117,62 @@ int main() {
 
 ## Funny Quines
 
+### APL
+
+A trivial quine in APL is given by any expression:
+```apl
+0
+```
+that will be output printed as result.
+
+Instead, an interisting and non-trivial quine is
+```apl
+1⌽,⍨9⍴'''1⌽,⍨9⍴'''
+```
+
+Let's we will trying to understand.
+
+APL expressions are evaluated right-to-left, so starting from the end
+```apl
+'''1⌽,⍨9⍴'''
+```
+is evaluated as 
+```apl
+'1⌽,⍨9⍴'
+```
+because ''' is an escaped single quote. 
+
+then 
+```apl
+9⍴'''1⌽,⍨9⍴'''
+```
+is evaluated as 
+```apl
+'1⌽,⍨9⍴''
+```
+because 9⍴ will add a new element at the end of the 8 charater length string (repeting the string as needed).
+
+then 
+```apl
+,⍨9⍴'''1⌽,⍨9⍴'''
+```
+is evaluated as 
+```apl
+'1⌽,⍨9⍴'''1⌽,⍨9⍴''
+```
+because ,⍨ will append its argument to itself (comma is the append operator, while ⍨ will duplicate the right argument as left argument).
+
+then 
+```apl
+1⌽,⍨9⍴'''1⌽,⍨9⍴'''
+```
+is evaluated as 
+```apl
+1⌽,⍨9⍴'''1⌽,⍨9⍴'''
+```
+because 1⌽ will rotate the right argument of one position (left argument).
+
+
 ### CBM BASIC
 
 A quine in CBM BASIC v2 that should be edited directly in a real Commodore 64.
