@@ -182,6 +182,11 @@ A quine in CBM BASIC v2 that should be edited directly in a real Commodore 64.
 
 <img src="c64-quine-2.png" width="640px" title="C64 Quine"/>
 
+Bit boring, but this is actual compliant
+
+<img src="c64-quine-3.png" width="640px" title="C64 Quine"/>
+
+
 ### Natural Language
 
 A quine using natural language. 
