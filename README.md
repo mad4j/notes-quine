@@ -186,10 +186,11 @@ Bit boring, but an actual quine.
 
 <img src="c64-quine-3.png" width="640px" title="C64 Quine"/>
 
-Without any trick
+Without any trick (just a little trouble in entering the last character):
 
 ```
-1 READA$:PRINTA$CHR$(34)A$CHR$(34):DATA"1 READA$:PRINTA$CHR$(34)A$CHR$(34):DATA"
+1 READA$:PRINTA$CHR$(34)A$CHR$(34):DATA"
+1 READA$:PRINTA$CHR$(34)A$CHR$(34):DATA"
 ```
 
 ### Natural Language
