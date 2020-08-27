@@ -117,6 +117,14 @@ int main() {
 
 ## Funny Quines
 
+
+### Python 3
+
+```python
+_='_=%r;print (_%%_)';print (_%_) 
+```
+TBV
+
 ### APL
 
 <img src="apl-quine.png" width="640px" title="APL Quine"/>
