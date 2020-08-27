@@ -124,7 +124,7 @@ int main() {
 _='_=%r;print(_%%_)';print(_%_) 
 ```
 
-In **Python** the expression ```"name: %s" % name``` performs a string formatting similar to the C **printf** function. The **%r** formatter addes single quotes around the value and the double **%%** sign is an escaping sequence of the character **%**.
+In **Python** the expression ```"name: %s" % value``` performs a string formatting similar to the C **printf** function. The **%r** formatter addes single quotes around the value and the double **%%** sign is an escaping sequence of the character **%**.
 
 ### APL
 
