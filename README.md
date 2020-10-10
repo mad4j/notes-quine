@@ -115,8 +115,9 @@ int main() {
 
 ```
 
-## Funny Quines
+## Other Quines
 
+Other interesting quines.
 
 ### Python 3
 
