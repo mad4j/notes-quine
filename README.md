@@ -10,7 +10,7 @@ _by Dario Dariol_
 
 A quine is a non-empty computer program which takes no input and produces a copy of its own source code as its only output. [Wikipedia](https://en.wikipedia.org/wiki/Quine_%28computing%29)
 
-## Notes
+## C++ Quines
 Compile using: 
 
 `$ g++ -std=c++17 quine.cpp -o quine`
@@ -18,9 +18,6 @@ Compile using:
 Verify using: 
 
 `$ ./quine | diff quine.cpp -`
-
-
-## C++ Quines 
 
 ### My signature 
 
