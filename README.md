@@ -1,4 +1,4 @@
-# My Quine page
+# Not so Quine
 
 Daniele Olmisani - <daniele.olmisani@gmail.com>, see [LICENSE](LICENSE) file.
 
