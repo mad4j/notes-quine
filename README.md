@@ -119,7 +119,7 @@ Other interesting quines.
 ### Rust
 
 ```rust
-fn main(){print!("{},{0:?})}}","fn main(){print!(\"{},{0:?})}}\"")}
+fn main(){print!("{}{0:?})}}","fn main(){print!(\"{}{0:?})}}\",")}
 ```
 
 ### Python 3
