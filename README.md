@@ -218,7 +218,7 @@ Without any trick (just a little trouble in entering the last character, just go
 1 READA$:PRINTA$CHR$(34)A$CHR$(34):DATA"
 ```
 
-<img src="c64-quine-4.png" width="640px" title="C64 Quine"/>
+<img src="c64-quine-4a.png" width="640px" title="C64 Quine"/>
 
 ### Natural Language
 
