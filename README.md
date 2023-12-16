@@ -191,6 +191,14 @@ because 1⌽ will rotate the right argument of one position (left argument).
 
 ### CBM BASIC
 
+Classic cheat.
+
+```
+1 LIST
+```
+
+<img src="c64-quine-1.png" width="640px" title="C64 Quine"/>
+
 A quine in CBM BASIC v2 that should be edited directly in a real Commodore 64.
 
 <img src="c64-quine-2.png" width="640px" title="C64 Quine"/>
