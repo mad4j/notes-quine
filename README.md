@@ -201,7 +201,7 @@ Classic cheat.
 
 A quine in CBM BASIC v2 that should be edited directly in a real Commodore 64.
 
-<img src="c64-quine-2.png" width="640px" title="C64 Quine"/>
+<img src="c64-quine-2a.png" width="640px" title="C64 Quine"/>
 
 Bit boring, but an actual quine.
 
